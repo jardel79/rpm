@@ -25,7 +25,7 @@ __version__ = '2016.12.13'
 Volume = os.getenv('VOLUME', '/')
 Vendor = os.getenv('VENDOR', 'org.rudix.pkg')
 RudixSite = os.getenv(
-    'RUDIX_SITE', 'https://raw.githubusercontent.com/rudix-mac/packages')
+    'RUDIX_SITE', 'https://raw.githubusercontent.com/jardel79/packages')
 RudixVersion = os.getenv('RUDIX_VERSION', 'master')
 
 OSX = {'10.6': 'Snow Leopard',
